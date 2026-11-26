@@ -4,13 +4,13 @@
     <title>votario Camera</title>
     <link>https://votario.web.app/mac</link>
     <item>
-      <title>Version 0.2.0</title>
-      <pubDate>Thu, 26 Nov 2026 13:41:21 +0000</pubDate>
-      <sparkle:version>10</sparkle:version>
-      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <title>Version 0.2.1</title>
+      <pubDate>Thu, 26 Nov 2026 14:07:14 +0000</pubDate>
+      <sparkle:version>12</sparkle:version>
+      <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <sparkle:releaseNotesLink>https://github.com/florianbaethge/votario-releases/releases/tag/v0.2.0</sparkle:releaseNotesLink>
-      <enclosure url="https://github.com/florianbaethge/votario-releases/releases/download/v0.2.0/votario-camera-0.2.0.dmg" type="application/octet-stream" sparkle:edSignature="P5cwditbF7eqs5KtYc+Cqh/6Sl1vO1Aa1wBHUpNo4HczHAuQ3WUcR6HcaKfmbo0hdt45/mkBW8AtSN9xuyzWBQ==" length="2789084"/>
+      <sparkle:releaseNotesLink>https://github.com/florianbaethge/votario-releases/releases/tag/v0.2.1</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/florianbaethge/votario-releases/releases/download/v0.2.1/votario-camera-0.2.1.dmg" type="application/octet-stream" sparkle:edSignature="Gi0+od/k340jsUDfkLNQ58O+91tEbzGZWXSLBOiLyzPg88A2iE3pRqDfghNJ32vV8zqJfcsqqO/Q9DbYC7jNBg==" length="2864355"/>
     </item>
   </channel>
 </rss>
