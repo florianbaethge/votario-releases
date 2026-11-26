@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>votario Camera</title>
+    <link>https://votario.web.app/mac</link>
+    <item>
+      <title>Version 0.1.1</title>
+      <pubDate>Thu, 26 Nov 2026 12:43:47 +0000</pubDate>
+      <sparkle:version>9</sparkle:version>
+      <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <sparkle:releaseNotesLink>https://github.com/florianbaethge/votario-releases/releases/tag/v0.1.1</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/florianbaethge/votario-releases/releases/download/v0.1.1/votario-camera-0.1.1.dmg" type="application/octet-stream" sparkle:edSignature="q3QUGwlRs9fTfJhJCGM4hthutlcphMUWJKrAZxazf5LGx3vJMF6LBhSLA9gbQ9P40cr/hHkdVLmyAp6jc6gWCg==" length="1504418"/>
+    </item>
+  </channel>
+</rss>
